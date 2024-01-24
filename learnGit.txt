@@ -2,6 +2,12 @@ hello new file
 adding more lines
 have to do something in java
 
+hello world
+new changes
+
+
+thankyou
+
 
 
 
@@ -11,3 +17,4 @@ lets make some conficts
 lets resolve it 
 
 itseasy 
+
